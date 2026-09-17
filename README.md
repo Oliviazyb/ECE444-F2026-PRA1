@@ -7,4 +7,6 @@
 ![Activity 2 Merge Branch](screenshots/activity2_merge_branch.png)
 
 ## Activity 3: Screenshot of merge conflict
-![Activity 3 Merge Conflict](screenshots/activity3_merge_conflict.png)
+![Activity 3 Merge Conflict](screenshots/activity3_merge_conflict_1.png)
+![Activity 3 Merge Conflict](screenshots/activity3_merge_conflict_2.png)
+![Activity 3 Merge Conflict](screenshots/activity3_merge_conflict_3.png)
